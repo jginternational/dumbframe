@@ -16,19 +16,19 @@ function addfoto(element) {
 $(document).ready(function () {
     images.forEach(addfoto);
 
-    var $item = $('.carousel-item');
+    var $item = $(".carousel-item");
     var $wHeight = $(window).height();
-    $item.eq(0).addClass('active');
+    $item.eq(0).addClass("active");
     $item.height($wHeight);
-    $item.addClass('full-screen');
+    $item.addClass("full-screen");
 
 
-    $(window).on('resize', function () {
+    $(window).on("resize", function () {
         $wHeight = $(window).height();
         $item.height($wHeight);
     });
 
-    $('.carousel').carousel({
+    $(".carousel").carousel({
         pause: "false"
     });
 });
