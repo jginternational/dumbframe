@@ -1,6 +1,7 @@
 # Dumbframe
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/426731982fb445a88b1d1e7c5598f423)](https://app.codacy.com/gh/jginternational/dumbframe?utm_source=github.com&utm_medium=referral&utm_content=jginternational/dumbframe&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/426731982fb445a88b1d1e7c5598f423)](https://app.codacy.com/gh/jginternational/dumbframe?utm_source=github.com&utm_medium=referral&utm_content=jginternational/dumbframe&utm_campaign=Badge_Grade_Settings)
 
 This project allows my ipad mini 1 become a fancy pictures frame using a simple static page server
 
